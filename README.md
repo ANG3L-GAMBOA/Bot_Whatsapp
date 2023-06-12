@@ -39,7 +39,9 @@ El bot de WhatsApp puede ser utilizado en una amplia gama de casos de uso, inclu
     Automatización de tareas: Integrar el bot con sistemas internos o servicios externos para automatizar tareas específicas, como la reserva de citas, la consulta de información o la realización de transacciones.
 
 <h1>Autores</h1>
- .  Angel Gamboa 👨‍🎓
+
+  . Angel Gamboa 👨‍🎓
+ 
 <h1>Contribuciones y colaboración</h1>
 
 Si deseas contribuir a este proyecto, te dejo el link del repositorio oficial [ bot-whatsapp](https://github.com/codigoencasa/bot-whatsapp) ¡eres bienvenido a formar parte de esta gran comunidad ! Puedes hacerlo mediante la apertura de problemas, el envío de solicitudes de extracción o la mejora de la documentación existente.
@@ -48,10 +50,10 @@ Si deseas contribuir a este proyecto, te dejo el link del repositorio oficial [ 
 Este proyecto se basa en tecnologías y bibliotecas de código abierto. Agradecemos a la comunidad de desarrolladores por sus contribuciones y esfuerzos en la creación de herramientas que hacen posible el desarrollo de bots de WhatsApp
 
 
-<h3>🌟Mas info🌟</h3>
+<h3>🌟Mas info. Visita su Web🌟</h3>
  
 [ChatBot](https://bot-whatsapp.netlify.app/)
 
-![imagen](https://github.com/ANG3L-GAMBOA/Bot_Whatsapp/assets/90113186/ebfffc61-1f3f-4228-bcdf-1a260c9ecd84)
+
 
  
