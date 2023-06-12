@@ -1,4 +1,4 @@
-Descripción del Bot de WhatsApp
+<h2>Descripción del Bot de WhatsApp<h2>
 
 Este proyecto presenta un Bot de WhatsApp que ofrece una solución automatizada para interactuar con usuarios a través de la popular plataforma de mensajería WhatsApp. El bot está diseñado para recibir mensajes entrantes, procesarlos y proporcionar respuestas automáticas según la lógica programada.
 Características principales
