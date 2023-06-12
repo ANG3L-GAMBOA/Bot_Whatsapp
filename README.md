@@ -1,4 +1,7 @@
 <h1>Bot de WhatsApp</h1>
+
+ ![imagen](https://github.com/ANG3L-GAMBOA/Bot_Whatsapp/assets/90113186/e2cd59f1-d326-4570-99f0-22c7365790ca)
+
 <h1>Menús MeliS.</h1>
 ¡Bienvenidos!, este Bot esta creado para ayudar con menus, el objetivo de este bot ahorrar tiempo y a ayudar a los emprendedores ya que con un simple click sin salir puedes pedir un menu sin perder 
 mucho tiempo ni salir de tu negocio de manera confiable y 100% segura ✅
@@ -52,7 +55,10 @@ Este proyecto se basa en tecnologías y bibliotecas de código abierto. Agradece
 
 <h3>🌟Mas info. Visita su Web🌟</h3>
  
-[ChatBot](https://bot-whatsapp.netlify.app/)
+   [✔✔ ChatBot](https://bot-whatsapp.netlify.app/)
+
+
+
 
 
 
